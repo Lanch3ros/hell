@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mammal
+comment0.text=Information\ about\ a\ Mammal<br>\n<b>(valley,row,column,color)</b><br>\n<br>\n
+comment1.params=valley\ row\ column
+comment1.target=Mammal(Valley,\ int,\ int)
+comment1.text=Create\ a\ new\ Mammal(<b>row,column</b>)\ in\ the\ valley\ <b>valley</b>..\n\ @param\ valley\ \n\ @param\ row\ \n\ @param\ column\ \n
+comment2.params=
+comment2.target=int\ getRow()
+comment2.text=Returns\ the\ row\n\ \ \ \ @return\ \n
+comment3.params=
+comment3.target=int\ getColumn()
+comment3.text=Returns\ the\ column\n\ \ \ \ @return\ \n
+comment4.params=
+comment4.target=java.awt.Color\ getColor()
+comment4.text=Returns\ the\ color\n\ \ \ \ @return\ \n
+comment5.params=r\ c
+comment5.target=boolean\ move(int,\ int)
+comment5.text=Move\n
+comment6.params=
+comment6.target=void\ die()
+comment6.text=Die\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Valley
+comment0.text=No\ olviden\ adicionar\ la\ documentacion
+comment1.params=
+comment1.target=Valley()
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=r\ c
+comment3.target=Unit\ getUnit(int,\ int)
+comment4.params=r\ c\ e
+comment4.target=void\ setUnit(int,\ int,\ Unit)
+comment5.params=
+comment5.target=void\ someUnits()
+comment6.params=r\ c
+comment6.target=int\ neighborsEquals(int,\ int)
+comment7.params=r\ c
+comment7.target=boolean\ isEmpty(int,\ int)
+comment8.params=r\ c
+comment8.target=boolean\ inValley(int,\ int)
+comment9.params=
+comment9.target=void\ ticTac()
+numComments=10
